@@ -1,5 +1,5 @@
-#🐍 Kay-O Time Limiter 🇧🇷
-##Desliga o computador quando chega um horário determinado.
+<h1>🐍 Kay-O Time Limiter 🇧🇷</h1>
+<h2>Desliga o computador quando chega um horário determinado.</h2>
  
 <h2>Introdução</h2>
 Olá, sou o Gabs, desenvolvedor de sistemas.<br>
